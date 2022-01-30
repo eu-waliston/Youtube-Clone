@@ -1,8 +1,8 @@
 
 
 
-<h1> Youtube Clone using pure HTML, CSS and JS + a youtube API<h1>
-<p> https://developers.google.com/youtube/v3 <p>
+<h1> Youtube Clone using pure HTML, CSS and JS + a youtube API</h1>
+<p> https://developers.google.com/youtube/v3 </p>
   
 <br>
 
